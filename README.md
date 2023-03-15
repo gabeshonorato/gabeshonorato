@@ -4,9 +4,11 @@
 
 
 
-......
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gabeshonorato&&style=flat-square" align="center" />
+</div>
 ------------------------------------------------------------------
-......
+
 
 
 ![gabeshonorato's Stats](https://github-readme-stats.vercel.app/api?username=gabeshonorato&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
