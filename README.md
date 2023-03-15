@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, everyone 👋
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabeshonorato&hide=javascript,html,jupyter%20notebook&layout=compact&theme=dark" />
 
 <!--
 **gabeshonorato/gabeshonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
