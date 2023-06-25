@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Gabi</h2>
 
 <div align="center">
-<img width = "800px" height = "400px" src="https://i.imgur.com/WCLfWEG.png" align="center"/>
+<img width = "800px" height = "500px" src="https://i.imgur.com/WCLfWEG.png" align="center"/>
 </div>
 
 
