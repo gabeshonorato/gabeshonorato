@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img width = "400px" height = "400px" src="https://i.imgur.com/WCLfWEG.png" align="center"/>
+<img width = "600px" height = "400px" src="https://i.imgur.com/WCLfWEG.png" align="center"/>
 </div>
 
 
