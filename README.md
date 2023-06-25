@@ -1,4 +1,4 @@
-                                              <h1 align="center">👋 Hi, I'm Gabi</h1>
+<h1 align="center">👋 Hi, I'm Gabi</h1>
 
 <div align="center">
 <img width = "600px" height = "400px" src="https://i.imgur.com/WCLfWEG.png" align="center"/>
