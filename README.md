@@ -1,7 +1,7 @@
 ### Hi, everyone 👋
 
 <div align="center">
-<img src="https://www.canva.com/design/DAFfi6pEg2I/view align="center"/>
+<img src="https://i.imgur.com/uUs0tHg.png align="center"/>
 </div>
 
 
